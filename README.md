@@ -18,14 +18,14 @@
 
 ## 订阅
 
-- 科学上网
+- github
 
   ```
-  https://raw.githubusercontent.com/chaiyan0216/chinese-holidays/main/chinese_holidays.ics
+  https://raw.githubusercontent.com/work-chausat/chinese-holidays/main/chinese_holidays.ics
   ```
 
 - 国内
 
   ```
-  https://gitee.com/chaiyan0216/chinese-holiday/raw/main/chinese_holidays.ics
+  https://gitee.com/work-chausat/chinese-holidays/raw/main/chinese_holidays.ics
   ```
