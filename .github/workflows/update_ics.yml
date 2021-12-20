@@ -49,5 +49,5 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
         with:
-          source-repo: "git@github.com:chaiyan0216/chinese-holiday.git"
-          destination-repo: "git@gitee.com:chaiyan0216/chinese-holiday.git"
+          source-repo: "git@github.com:work-chausat/chinese-holidays.git"
+          destination-repo: "git@gitee.com:work-chausat/chinese-holidays.git"
